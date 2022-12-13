@@ -1,0 +1,36 @@
+body {
+  background-color: azure;
+}
+p {
+  color: black;
+  text-align: left;
+  font-family:"Lucida Console", monospace;
+  font-size: 15px
+}
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color:aquamarine;
+  text-shadow: -2px 2px black;
+  text-decoration:overline;
+  text-align: center
+}
+h2 {
+  font-size: 20px;
+  font-family: monospace;
+}
+img{
+  border-bottom-style: double;
+  border-bottom-left-radius: 20px;
+  border-color: #e8e12a
+}
+h5{
+  text-align: left
+}
+hr{
+  width: 1500px;
+  color: black;
+}
+#credits {
+  font-size: 10px;
+}
